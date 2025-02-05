@@ -1,3 +1,13 @@
+# Anarchic Beam Classic (Server)
+
+This is the Anarchic Beam Classic distribution.
+
+It is an attempt to revive the legacy Projector for IntelliJ IDEA.
+
+🚧 Work in progress.
+
+# Legacy Readme
+
 # projector-server
 [![JetBrains incubator project](https://jb.gg/badges/incubator.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 [![Tests status badge](https://github.com/JetBrains/projector-server/workflows/Tests/badge.svg)](https://github.com/JetBrains/projector-server/actions)
